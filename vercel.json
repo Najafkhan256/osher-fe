@@ -1,8 +1,11 @@
 {
+  "env": {
+    "NODE_OPTIONS": "--openssl-legacy-provider"
+  },
   "builds": [
     {
       "src": "package.json",
-      "use": "@vercel/node@16.20.0",
+      "use": "@vercel/node",
       "config": { "maxLambdaSize": "15mb" }
     }
   ]
