@@ -41,7 +41,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "set \"NODE_OPTIONS=--openssl-legacy-provider\" && react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -67,5 +67,8 @@
     "css-loader": "^5.0.1",
     "popper.js": "^1.16.1",
     "style-loader": "^2.0.0"
+  },
+  "engines": {
+    "node": "22.12.0"
   }
 }
