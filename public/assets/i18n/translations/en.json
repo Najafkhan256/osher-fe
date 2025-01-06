@@ -1,0 +1,121 @@
+{
+  "hello.label": "Hello",
+  "thankyou.label": "Thank you",
+
+  "Continue": "Continue",
+  "Back": "Back",
+  "Language": "English",
+  "Mute": "Mute",
+  "Up": "Up",
+  "Down": "Down",
+  "Weather": "Weather",
+  "Nap": "Nap",
+  "Driver": "Driver",
+  "Dashboard": "Dashboard",
+
+  "PLAY AND WIN": "PLAY AND WIN",
+  "WHAT TO DO": "WHAT TO DO",
+  "IN": "IN",
+  "UPTO": "UPTO",
+  "OFF": "OFF",
+
+  "This screen will disappear after 5 minutes!": "This screen will disappear after 5 minutes!"
+
+  ,"Get this coupon": "Get this coupon"
+  ,"Expiry": "Expiry"
+  ,"Expire in": "Expire in"
+  ,"EXPIRED": "EXPIRED"
+
+  ,"About this deal": "About this deal"
+  ,"Need to know": "Need to know"
+  ,"Branches": "Branches"
+  ,"Related Bundles": "Related Bundles"
+  
+  ,"Visiting Montreal": "Visiting Montreal"
+  ,"Join our list now to receive coupons! We promise - no spam!": "Join our list now to receive coupons! We promise - no spam!"
+  ,"Enter your e-mail": "Enter your e-mail"
+  ,"Enter your full name": "Enter your full name"
+  ,"Enter your phone number": "Enter your phone number"
+  ,"I agree to receive coupons and promotions on my email.": "I agree to receive coupons and promotions on my email."
+  ,"Receive Coupon": "Receive Coupon"
+  ,"Processing": "Processing"
+  ,"Congratulations": "Congratulations"
+  ,"Your coupon is": "Your coupon is"
+  ,"Back to Home": "Back to Home"
+
+  ,"You're riding with": "You're riding with"
+  ,"About Me": "About Me"
+  ,"Hometown": "Hometown"
+  ,"Favorite Food": "Favorite Food"
+  ,"Favorite Hobby": "Favorite Hobby"
+  ,"Favorite Sport or Team": "Favorite Sport or Team"
+  ,"Ask me about": "Ask me about"
+  ,"My tips go towards": "My tips go towards"
+  
+  ,"Login": "Login"
+  ,"Logging in": "Logging in"
+  ,"Welcome": "Welcome"
+  ,"Username": "Username"
+  ,"Password": "Password"
+  ,"Forgot your password": "Forgot your password"
+  
+  ,"Username - Email": "Username - Email"
+  ,"Send Link": "Send Link"
+  ,"Sending": "Sending"
+  
+  ,"Admin": "Admin"
+  ,"Brands": "Brands"
+  ,"Videos": "Videos"
+  ,"Locations": "Locations"
+  ,"Customers": "Customers"
+  ,"Orders": "Orders"
+  ,"Products": "Products"
+  ,"Report": "Report"
+  ,"Financials": "Financials"
+  ,"Logout": "Logout"
+  
+  ,"Coupons": "Coupons"
+  ,"Used": "Used"
+  ,"Used Coupons": "Used Coupons"
+  ,"Unused Coupons": "Unused Coupons"
+  ,"Total Coupons": "Total Coupons"
+  ,"Coupons by status": "Coupons by status"
+  ,"Daily sales": "Daily sales"
+  ,"Recent orders": "Recent orders"
+  ,"View all orders": "View all orders"
+  ,"View all": "View all"
+  ,"View all brands": "View all brands"
+  ,"View": "View"
+  ,"Coupon": "Coupon"
+  ,"Buyer": "Buyer"
+  ,"Purchased": "Purchased"
+  ,"Amount": "Amount"
+  ,"Status": "Status"
+  ,"Brand": "Brand"
+  ,"Joined": "Joined"
+  ,"Name": "Name"
+  ,"Email": "Email"
+  ,"Information": "Information"
+  
+  ,"Person": "Person"
+  ,"Branch": "Branch"
+  ,"Phone": "Phone"
+  ,"Address": "Address"
+  ,"Update": "Update"
+  ,"Delete": "Delete"
+  ,"Clear": "Clear"
+  ,"Add Branch": "Add Branch"
+  ,"Yes": "Yes"
+  ,"No": "No"
+  ,"Are you sure to remove this location": "Are you sure to remove this location"
+  ,"Best person to reach (Name)": "Best person to reach (Name)"
+  ,"Branch name": "Branch name"
+  ,"Branch address": "Branch address"
+  ,"Branch phone number": "Branch phone number"
+  ,"Branch email": "Branch email"
+  
+  ,"Add Video": "Add Video"
+  ,"Are you sure to remove this video": "Are you sure to remove this video"
+  ,"Enter Video Name": "Enter Video Name"
+  ,"Choose Video": "Choose Video"
+}
